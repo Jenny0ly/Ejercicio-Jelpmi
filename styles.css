@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
+
+html{
+	background-color: #9032C8;
+	font-family: "Roboto", sans-serif; /*si no funciona google fonts va a insertar sans serif en las letras en lugar de robot*/
+}
+
+.logo img{
+	display:block;
+	width: 15%;
+	margin:10px auto;
+}
+
+.center{
+	display: block;
+	width:30%;
+	margin:80px auto;
+	color: white;
+	/*border: 2px solid black;*/
+	font-size: 20px;
+	font-weight: 400;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.busqueda{
+	box-sizing: border-box;
+}
+
+input{
+	border: 2px solid #ccc;
+	width: 100%;
+	border-radius: 2px;
+	font-size: 18px;
+	padding: 15px;
+	height: 50px;
+	margin-top: 15px;
+}
+
+.button{
+	margin-top: 15px;
+	color: white;
+	background-color:#F223C6;
+	border: none;
+	text-align: center;
+	font-size: 16px;
+	padding: 13px 10px;
+	font-weight: 600;
+	border-radius: 4px;
+	width: 100%;
+	height: 50px;
+}
+
+.inferior{
+	margin-top: 90px;
+	font-size: 16px;
+}

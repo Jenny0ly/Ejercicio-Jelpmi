@@ -1,0 +1,33 @@
+.center{
+	margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.serviciosConf{
+	background-color: #9032C8;
+	color: white;
+	font-family: "Arial", Arial, serif;
+}
+
+.serviciosDisp{
+	background-color: #F223C6;
+	color: white;
+	font-family: "Arial", Arial, serif;
+}
+
+.bienvenida{
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 40px;
+}
+
+.cierre{
+	font-family: "Arial", Arial, serif;
+	color: red;
+	font-size: 18px;
+}
+
+a:link {
+    color: red;
+}
